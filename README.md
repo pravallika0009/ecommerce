@@ -1,2 +1,2 @@
 # ecommerce
-#output
+# OUTPUT
